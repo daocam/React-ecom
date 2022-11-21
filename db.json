@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Xbox series X",
+      "description": "Microsoft - video game console",
+      "price": "599",
+      "category": "Video games"
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro M2",
+      "description": "Apple - laptop 14 inch",
+      "price": "1699",
+      "category": "laptop"
+    },
+    {
+      "id": 3,
+      "name": "Headphone JBL - 460NC",
+      "description": "JBL - Headphone noise reduction and bluetooth",
+      "price": "99",
+      "category": "Headphones"
+    },
+    {
+      "name": "rrr",
+      "description": "rrr",
+      "price": "45",
+      "category": "fgfg",
+      "id": 4
+    },
+    {
+      "name": "rrrr",
+      "description": "rrrr",
+      "price": "43",
+      "category": "vfrre",
+      "id": 5
+    }
+  ]
+}
